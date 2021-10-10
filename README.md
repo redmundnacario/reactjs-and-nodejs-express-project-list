@@ -3,7 +3,7 @@
 ## ReactJS Projects
 
 1. [Homie App](https://github.com/homie-avion/homie-react) : [Website](https://homie-app.netlify.app/)
-2. [Crwn Clothing Website](https://github.com/redmundnacario/crwn-clothing) : [Website](https://crwn-clothing-ph.netlify.app/)
+2. [Crwn Clothing](https://github.com/redmundnacario/crwn-clothing) : [Website](https://crwn-clothing-ph.netlify.app/)
 3. [Image Gallery | Unsplash replicate](https://github.com/redmundnacario/image-gallery) : [Website](https://redmundnacario.github.io/image-gallery/)
 4. [Task Tracker](https://github.com/redmundnacario/task-tracker) : [Website](https://redmundnacario.github.io/task-tracker/)
 6. [Monster Rolodex](https://github.com/redmundnacario/monsters-rolodex) : [Website](https://redmundnacario.github.io/monsters-rolodex/)
